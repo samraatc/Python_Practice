@@ -59,7 +59,7 @@ print('the result is ', upper_test);
 
 name = "samraat"
 age = 25
-city = "Nepal"
+country = "Nepal"
 
 formatted_string = f"My name is {name}, I am {age} years old, and I live in {city}.";
 print(formatted_string);
